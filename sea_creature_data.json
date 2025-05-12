@@ -1,0 +1,803 @@
+[
+    {
+        "name": "Abyssal Miner",
+        "weight": "90",
+        "requirements": {
+            "level_required": "24",
+            "areas": [
+                "Mithril Deposits",
+                "Precursor Remnants",
+                "Jungle"
+            ]
+        },
+        "rarity": "LEGENDARY",
+        "environment": "Water"
+    },
+    {
+        "name": "Agarimoo",
+        "weight": "950",
+        "requirements": {
+            "level_required": "Bucket",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Water"
+    },
+    {
+        "name": "Alligator",
+        "weight": "50",
+        "requirements": {
+            "level_required": "20",
+            "areas": [
+                "Backwater Bayou"
+            ]
+        },
+        "rarity": "LEGENDARY",
+        "environment": "Water"
+    },
+    {
+        "name": "Banshee",
+        "weight": "300",
+        "requirements": {
+            "level_required": "10",
+            "areas": [
+                "Backwater Bayou"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Water"
+    },
+    {
+        "name": "Bayou Sludge",
+        "weight": "100",
+        "requirements": {
+            "level_required": "15",
+            "areas": [
+                "Backwater Bayou"
+            ]
+        },
+        "rarity": "EPIC",
+        "environment": "Water"
+    },
+    {
+        "name": "Bloated Mithril Grubber",
+        "weight": "35",
+        "requirements": {
+            "level_required": "6",
+            "areas": [
+                "Abandoned Quarry"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Blue Ringed Octopus",
+        "weight": "25",
+        "requirements": {
+            "level_required": "Hotspot",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "LEGENDARY",
+        "environment": "Water"
+    },
+    {
+        "name": "Blue Shark",
+        "weight": "550",
+        "requirements": {
+            "level_required": "Festival",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Water"
+    },
+    {
+        "name": "Carrot King",
+        "weight": "300",
+        "requirements": {
+            "level_required": "Bait",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Water"
+    },
+    {
+        "name": "Catfish",
+        "weight": "250",
+        "requirements": {
+            "level_required": "13",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Water"
+    },
+    {
+        "name": "Deep Sea Protector",
+        "weight": "88",
+        "requirements": {
+            "level_required": "18",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "EPIC",
+        "environment": "Water"
+    },
+    {
+        "name": "Dumpster Diver",
+        "weight": "500",
+        "requirements": {
+            "level_required": "5",
+            "areas": [
+                "Backwater Bayou"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Fiery Scuttler",
+        "weight": "25",
+        "requirements": {
+            "level_required": "Hotspot",
+            "areas": [
+                "Crimson Isle"
+            ]
+        },
+        "rarity": "LEGENDARY",
+        "environment": "Lava"
+    },
+    {
+        "name": "Fire Eel",
+        "weight": "280",
+        "requirements": {
+            "level_required": "34",
+            "areas": [
+                "Crimson Isle"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Lava"
+    },
+    {
+        "name": "Fireproof Witch",
+        "weight": "250",
+        "requirements": {
+            "level_required": "Hotspot",
+            "areas": [
+                "Crimson Isle"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Lava"
+    },
+    {
+        "name": "Flaming Worm",
+        "weight": "180",
+        "requirements": {
+            "level_required": "19",
+            "areas": [
+                "Precursor Remnants"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Lava"
+    },
+    {
+        "name": "Fried Chicken",
+        "weight": "1,000",
+        "requirements": {
+            "level_required": "Hotspot",
+            "areas": [
+                "Crimson Isle"
+            ]
+        },
+        "rarity": "COMMON",
+        "environment": "Lava"
+    },
+    {
+        "name": "Frog Man",
+        "weight": "1,000",
+        "requirements": {
+            "level_required": "Hotspot",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "COMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Frosty (Mob)",
+        "weight": "800",
+        "requirements": {
+            "level_required": "6",
+            "areas": [
+                "Jerry's Workshop"
+            ]
+        },
+        "rarity": "COMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Frozen Steve",
+        "weight": "1,100",
+        "requirements": {
+            "level_required": "5",
+            "areas": [
+                "Jerry's Workshop"
+            ]
+        },
+        "rarity": "COMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Great White Shark",
+        "weight": "150",
+        "requirements": {
+            "level_required": "Festival",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "LEGENDARY",
+        "environment": "Water"
+    },
+    {
+        "name": "Grim Reaper",
+        "weight": "25",
+        "requirements": {
+            "level_required": "Festival",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "LEGENDARY",
+        "environment": "Water"
+    },
+    {
+        "name": "Grinch",
+        "weight": "50",
+        "requirements": {
+            "level_required": "13",
+            "areas": [
+                "Jerry's Workshop"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Guardian Defender",
+        "weight": "130",
+        "requirements": {
+            "level_required": "17",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "EPIC",
+        "environment": "Water"
+    },
+    {
+        "name": "Large Mithril Grubber",
+        "weight": "70",
+        "requirements": {
+            "level_required": "6",
+            "areas": [
+                "Abandoned Quarry"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Lava Blaze",
+        "weight": "36",
+        "requirements": {
+            "level_required": "20",
+            "areas": [
+                "Magma Fields"
+            ]
+        },
+        "rarity": "EPIC",
+        "environment": "Lava"
+    },
+    {
+        "name": "Lava Flame",
+        "weight": "360",
+        "requirements": {
+            "level_required": "33",
+            "areas": [
+                "Crimson Isle"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Lava"
+    },
+    {
+        "name": "Lava Leech",
+        "weight": "600",
+        "requirements": {
+            "level_required": "30",
+            "areas": [
+                "Crimson Isle"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Lava"
+    },
+    {
+        "name": "Lava Pigman",
+        "weight": "36",
+        "requirements": {
+            "level_required": "22",
+            "areas": [
+                "Magma Fields"
+            ]
+        },
+        "rarity": "EPIC",
+        "environment": "Lava"
+    },
+    {
+        "name": "Lord Jawbus",
+        "weight": "8",
+        "requirements": {
+            "level_required": "45",
+            "areas": [
+                "Crimson Isle   Adept Trophy Fisher"
+            ]
+        },
+        "rarity": "MYTHIC",
+        "environment": "Lava"
+    },
+    {
+        "name": "Magma Slug",
+        "weight": "1,600",
+        "requirements": {
+            "level_required": "27",
+            "areas": [
+                "Crimson Isle"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Lava"
+    },
+    {
+        "name": "Medium Mithril Grubber",
+        "weight": "210",
+        "requirements": {
+            "level_required": "6",
+            "areas": [
+                "Abandoned Quarry"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Mithril Grubber",
+        "weight": "385",
+        "requirements": {
+            "level_required": "6",
+            "areas": [
+                "Abandoned Quarry"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Moogma",
+        "weight": "1,200",
+        "requirements": {
+            "level_required": "28",
+            "areas": [
+                "Crimson Isle"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Lava"
+    },
+    {
+        "name": "Night Squid",
+        "weight": "1,100",
+        "requirements": {
+            "level_required": "Bait",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "COMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Nightmare",
+        "weight": "550",
+        "requirements": {
+            "level_required": "Festival",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Water"
+    },
+    {
+        "name": "Nurse Shark",
+        "weight": "1,100",
+        "requirements": {
+            "level_required": "Festival",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Nutcracker",
+        "weight": "60",
+        "requirements": {
+            "level_required": "28",
+            "areas": [
+                "Jerry's Workshop"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Water"
+    },
+    {
+        "name": "Oasis Rabbit",
+        "weight": "300",
+        "requirements": {
+            "level_required": "10",
+            "areas": [
+                "Oasis"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Oasis Sheep",
+        "weight": "700",
+        "requirements": {
+            "level_required": "10",
+            "areas": [
+                "Oasis"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Phantom Fisher",
+        "weight": "90",
+        "requirements": {
+            "level_required": "Festival",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "LEGENDARY",
+        "environment": "Water"
+    },
+    {
+        "name": "Plhlegblast",
+        "weight": "0",
+        "requirements": {
+            "level_required": "36",
+            "areas": [
+                "Crimson Isle"
+            ]
+        },
+        "rarity": "MYTHIC",
+        "environment": "Lava"
+    },
+    {
+        "name": "Poisoned Water Worm",
+        "weight": "300",
+        "requirements": {
+            "level_required": "17",
+            "areas": [
+                "Goblin Holdout"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Water"
+    },
+    {
+        "name": "Pyroclastic Worm",
+        "weight": "400",
+        "requirements": {
+            "level_required": "31",
+            "areas": [
+                "Crimson Isle"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Lava"
+    },
+    {
+        "name": "Ragnarok",
+        "weight": "5",
+        "requirements": {
+            "level_required": "Hotspot",
+            "areas": [
+                "Crimson Isle"
+            ]
+        },
+        "rarity": "MYTHIC",
+        "environment": "Lava"
+    },
+    {
+        "name": "Reindrake",
+        "weight": "6",
+        "requirements": {
+            "level_required": "35",
+            "areas": [
+                "Jerry's Workshop"
+            ]
+        },
+        "rarity": "MYTHIC",
+        "environment": "Water"
+    },
+    {
+        "name": "Rider Of The Deep",
+        "weight": "400",
+        "requirements": {
+            "level_required": "11",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Scarecrow",
+        "weight": "1,000",
+        "requirements": {
+            "level_required": "Festival",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "COMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Sea Archer",
+        "weight": "550",
+        "requirements": {
+            "level_required": "9",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Sea Creatures",
+        "weight": "N/A",
+        "requirements": "N/A",
+        "rarity": "N/A",
+        "environment": "N/A"
+    },
+    {
+        "name": "Sea Emperor",
+        "weight": "10",
+        "requirements": {
+            "level_required": "20",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "LEGENDARY",
+        "environment": "Water"
+    },
+    {
+        "name": "Sea Guardian",
+        "weight": "600",
+        "requirements": {
+            "level_required": "5",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "COMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Sea Leech",
+        "weight": "160",
+        "requirements": {
+            "level_required": "16",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Water"
+    },
+    {
+        "name": "Sea Walker",
+        "weight": "800",
+        "requirements": {
+            "level_required": "1",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "COMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Sea Witch",
+        "weight": "700",
+        "requirements": {
+            "level_required": "7",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "UNCOMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Snapping Turtle",
+        "weight": "250",
+        "requirements": {
+            "level_required": "Hotspot",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Water"
+    },
+    {
+        "name": "Squid",
+        "weight": "1,200",
+        "requirements": {
+            "level_required": "1",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "COMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Taurus",
+        "weight": "160",
+        "requirements": {
+            "level_required": "35",
+            "areas": [
+                "Crimson Isle"
+            ]
+        },
+        "rarity": "EPIC",
+        "environment": "Lava"
+    },
+    {
+        "name": "Thunder",
+        "weight": "40",
+        "requirements": {
+            "level_required": "36",
+            "areas": [
+                "Crimson Isle   Novice Trophy Fisher"
+            ]
+        },
+        "rarity": "MYTHIC",
+        "environment": "Lava"
+    },
+    {
+        "name": "Tiger Shark",
+        "weight": "300",
+        "requirements": {
+            "level_required": "Festival",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "EPIC",
+        "environment": "Water"
+    },
+    {
+        "name": "Titanoboa",
+        "weight": "10",
+        "requirements": {
+            "level_required": "30",
+            "areas": [
+                "Backwater Bayou"
+            ]
+        },
+        "rarity": "MYTHIC",
+        "environment": "Water"
+    },
+    {
+        "name": "Trash Gobbler",
+        "weight": "750",
+        "requirements": {
+            "level_required": "5",
+            "areas": [
+                "Backwater Bayou"
+            ]
+        },
+        "rarity": "COMMON",
+        "environment": "Water"
+    },
+    {
+        "name": "Water Hydra",
+        "weight": "18",
+        "requirements": {
+            "level_required": "19",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "LEGENDARY",
+        "environment": "Water"
+    },
+    {
+        "name": "Water Worm",
+        "weight": "300",
+        "requirements": {
+            "level_required": "15",
+            "areas": [
+                "Goblin Holdout"
+            ]
+        },
+        "rarity": "RARE",
+        "environment": "Water"
+    },
+    {
+        "name": "Werewolf",
+        "weight": "250",
+        "requirements": {
+            "level_required": "Festival",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "EPIC",
+        "environment": "Water"
+    },
+    {
+        "name": "Wiki Tiki",
+        "weight": "5",
+        "requirements": {
+            "level_required": "Hotspot",
+            "areas": [
+                "Any"
+            ]
+        },
+        "rarity": "MYTHIC",
+        "environment": "Water"
+    },
+    {
+        "name": "Yeti",
+        "weight": "30",
+        "requirements": {
+            "level_required": "25",
+            "areas": [
+                "Jerry's Workshop"
+            ]
+        },
+        "rarity": "LEGENDARY",
+        "environment": "Water"
+    }
+]
