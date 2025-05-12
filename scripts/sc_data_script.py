@@ -61,6 +61,15 @@ def get_rod_type(soup):
         return rod_type
     return 'N/A'
 
+# Function to get the image link
+def get_image_link(soup):
+    img_tag = soup.find('img', alt=True)
+    if img_tag:
+        img_link = img_tag['src']
+        return f"https://wiki.hypixel.net{img_link}"
+    return 'N/A'
+
+
 # Main script
 all_data = []
 
@@ -84,13 +93,15 @@ for url in urls:
     requirements = get_requirements(soup)
     rarity = get_rarity(soup)
     rod_type = get_rod_type(soup)
+    image_link = get_image_link(soup)
     
     data = {
         'name': name,
         'weight': weight_value,
         'requirements': requirements,
         'rarity': rarity,
-        'environment': rod_type
+        'environment': rod_type,
+        'image_link': image_link
     }
     
     # Print the data for each sea creature (for debugging)
@@ -99,12 +110,14 @@ for url in urls:
     print(f"The requirements are: {requirements}")
     print(f"The rarity is: {rarity}")
     print(f"Environment: {rod_type}")
+    print(f"The image link is: {image_link}")
+
     
     # Append new data to the list
     all_data.append(data)
 
 # Save all data to the JSON file
-with open('sea_creature_data.json', 'w') as f:
+with open('assets/data/sea_creature_data.json', 'w') as f:
     json.dump(all_data, f, indent=4)
 
 # Done

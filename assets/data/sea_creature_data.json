@@ -11,7 +11,8 @@
             ]
         },
         "rarity": "LEGENDARY",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/f/f4/SkyBlock_npcs_zombie_miner.png"
     },
     {
         "name": "Agarimoo",
@@ -23,7 +24,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/2/26/Minecraft_entities_red_mooshroom.png"
     },
     {
         "name": "Alligator",
@@ -35,7 +37,8 @@
             ]
         },
         "rarity": "LEGENDARY",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/5/52/SkyBlock_entities_alligator.png"
     },
     {
         "name": "Banshee",
@@ -47,7 +50,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/f/f6/SkyBlock_entities_banshee.png"
     },
     {
         "name": "Bayou Sludge",
@@ -59,7 +63,8 @@
             ]
         },
         "rarity": "EPIC",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/2/22/Minecraft_entities_slime.png"
     },
     {
         "name": "Bloated Mithril Grubber",
@@ -71,7 +76,8 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/8/88/Minecraft_entities_silverfish.gif"
     },
     {
         "name": "Blue Ringed Octopus",
@@ -83,7 +89,8 @@
             ]
         },
         "rarity": "LEGENDARY",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/9/98/SkyBlock_entities_blue_ringed_octopus.png"
     },
     {
         "name": "Blue Shark",
@@ -95,7 +102,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/4/49/SkyBlock_npcs_blue_shark.png"
     },
     {
         "name": "Carrot King",
@@ -107,7 +115,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/d/d3/Minecraft_entities_albino_rabbit.png"
     },
     {
         "name": "Catfish",
@@ -119,7 +128,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/9/97/Minecraft_entities_ocelot.png"
     },
     {
         "name": "Deep Sea Protector",
@@ -131,7 +141,8 @@
             ]
         },
         "rarity": "EPIC",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/e/ee/Minecraft_entities_iron_golem.png"
     },
     {
         "name": "Dumpster Diver",
@@ -143,7 +154,8 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/4/4d/SkyBlock_entities_dumpster_diver.png"
     },
     {
         "name": "Fiery Scuttler",
@@ -155,7 +167,8 @@
             ]
         },
         "rarity": "LEGENDARY",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/3/37/SkyBlock_entities_fiery_scuttler.png"
     },
     {
         "name": "Fire Eel",
@@ -167,7 +180,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/f/fb/SkyBlock_entities_fire_eel.png"
     },
     {
         "name": "Fireproof Witch",
@@ -179,7 +193,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/e/ea/Minecraft_entities_witch.png"
     },
     {
         "name": "Flaming Worm",
@@ -191,7 +206,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/8/88/Minecraft_entities_silverfish.gif"
     },
     {
         "name": "Fried Chicken",
@@ -203,7 +219,8 @@
             ]
         },
         "rarity": "COMMON",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/a/ae/SkyBlock_entities_fried_chicken.gif"
     },
     {
         "name": "Frog Man",
@@ -215,7 +232,8 @@
             ]
         },
         "rarity": "COMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/3/3d/SkyBlock_entities_frog_man.png"
     },
     {
         "name": "Frosty (Mob)",
@@ -227,7 +245,8 @@
             ]
         },
         "rarity": "COMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/c/c0/Minecraft_items_paper.png"
     },
     {
         "name": "Frozen Steve",
@@ -239,7 +258,8 @@
             ]
         },
         "rarity": "COMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/8/84/SkyBlock_entities_frozen_steve.png"
     },
     {
         "name": "Great White Shark",
@@ -251,7 +271,8 @@
             ]
         },
         "rarity": "LEGENDARY",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/1/16/SkyBlock_npcs_great_white_shark.png"
     },
     {
         "name": "Grim Reaper",
@@ -263,7 +284,8 @@
             ]
         },
         "rarity": "LEGENDARY",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/1/18/SkyBlock_entities_grim_reaper.png"
     },
     {
         "name": "Grinch",
@@ -275,7 +297,8 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/e/e9/SkyBlock_entities_grinch.png"
     },
     {
         "name": "Guardian Defender",
@@ -287,7 +310,8 @@
             ]
         },
         "rarity": "EPIC",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/7/71/Minecraft_entities_guardian.gif"
     },
     {
         "name": "Large Mithril Grubber",
@@ -299,7 +323,8 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/8/88/Minecraft_entities_silverfish.gif"
     },
     {
         "name": "Lava Blaze",
@@ -311,7 +336,8 @@
             ]
         },
         "rarity": "EPIC",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/8/8b/Minecraft_entities_blaze.gif"
     },
     {
         "name": "Lava Flame",
@@ -323,7 +349,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/8/8b/Minecraft_entities_blaze.gif"
     },
     {
         "name": "Lava Leech",
@@ -335,7 +362,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/9/95/Minecraft_entities_endermite.gif"
     },
     {
         "name": "Lava Pigman",
@@ -347,7 +375,8 @@
             ]
         },
         "rarity": "EPIC",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/c/c5/Minecraft_entities_zombie_pigman.png"
     },
     {
         "name": "Lord Jawbus",
@@ -359,7 +388,8 @@
             ]
         },
         "rarity": "MYTHIC",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/e/ee/Minecraft_entities_iron_golem.png"
     },
     {
         "name": "Magma Slug",
@@ -371,7 +401,8 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/d/db/Minecraft_entities_magma_cube.png"
     },
     {
         "name": "Medium Mithril Grubber",
@@ -383,7 +414,8 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/8/88/Minecraft_entities_silverfish.gif"
     },
     {
         "name": "Mithril Grubber",
@@ -395,7 +427,8 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/8/88/Minecraft_entities_silverfish.gif"
     },
     {
         "name": "Moogma",
@@ -407,7 +440,8 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/2/26/Minecraft_entities_red_mooshroom.png"
     },
     {
         "name": "Night Squid",
@@ -419,7 +453,8 @@
             ]
         },
         "rarity": "COMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/5/53/Minecraft_entities_squid.gif"
     },
     {
         "name": "Nightmare",
@@ -431,7 +466,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/b/bb/SkyBlock_entities_nightmare.png"
     },
     {
         "name": "Nurse Shark",
@@ -443,7 +479,8 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/7/76/SkyBlock_npcs_nurse_shark.png"
     },
     {
         "name": "Nutcracker",
@@ -455,7 +492,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/d/dd/SkyBlock_entities_nutcracker.png"
     },
     {
         "name": "Oasis Rabbit",
@@ -467,7 +505,8 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/d/d0/Minecraft_entities_brown_rabbit.png"
     },
     {
         "name": "Oasis Sheep",
@@ -479,7 +518,8 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/2/25/Minecraft_entities_sheep.png"
     },
     {
         "name": "Phantom Fisher",
@@ -491,7 +531,8 @@
             ]
         },
         "rarity": "LEGENDARY",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/4/48/SkyBlock_entities_phantom_fisher.png"
     },
     {
         "name": "Plhlegblast",
@@ -503,7 +544,8 @@
             ]
         },
         "rarity": "MYTHIC",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/5/53/Minecraft_entities_squid.gif"
     },
     {
         "name": "Poisoned Water Worm",
@@ -515,7 +557,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/9/95/Minecraft_entities_endermite.gif"
     },
     {
         "name": "Pyroclastic Worm",
@@ -527,7 +570,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/3/35/SkyBlock_entities_pyroclastic_worm.png"
     },
     {
         "name": "Ragnarok",
@@ -539,7 +583,8 @@
             ]
         },
         "rarity": "MYTHIC",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/9/91/SkyBlock_entities_ragnarok.png"
     },
     {
         "name": "Reindrake",
@@ -551,7 +596,8 @@
             ]
         },
         "rarity": "MYTHIC",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/2/2c/SkyBlock_entities_reindrake.gif"
     },
     {
         "name": "Rider Of The Deep",
@@ -563,7 +609,8 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/7/70/SkyBlock_entities_monster_of_the_deep.png"
     },
     {
         "name": "Scarecrow",
@@ -575,7 +622,8 @@
             ]
         },
         "rarity": "COMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/f/f5/SkyBlock_entities_scarecrow.png"
     },
     {
         "name": "Sea Archer",
@@ -587,14 +635,16 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/1/17/SkyBlock_entities_sea_archer.png"
     },
     {
         "name": "Sea Creatures",
         "weight": "N/A",
         "requirements": "N/A",
         "rarity": "N/A",
-        "environment": "N/A"
+        "environment": "N/A",
+        "image_link": "https://wiki.hypixel.net/images/5/53/Minecraft_entities_squid.gif"
     },
     {
         "name": "Sea Emperor",
@@ -606,7 +656,8 @@
             ]
         },
         "rarity": "LEGENDARY",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/f/f3/SkyBlock_entities_sea_emperor.png"
     },
     {
         "name": "Sea Guardian",
@@ -618,7 +669,8 @@
             ]
         },
         "rarity": "COMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/7/71/Minecraft_entities_guardian.gif"
     },
     {
         "name": "Sea Leech",
@@ -630,7 +682,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/8/88/Minecraft_entities_silverfish.gif"
     },
     {
         "name": "Sea Walker",
@@ -642,7 +695,8 @@
             ]
         },
         "rarity": "COMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/4/43/SkyBlock_entities_sea_walker.png"
     },
     {
         "name": "Sea Witch",
@@ -654,7 +708,8 @@
             ]
         },
         "rarity": "UNCOMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/e/ea/Minecraft_entities_witch.png"
     },
     {
         "name": "Snapping Turtle",
@@ -666,7 +721,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/1/1f/SkyBlock_entities_snapping_turtle.png"
     },
     {
         "name": "Squid",
@@ -678,7 +734,8 @@
             ]
         },
         "rarity": "COMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/5/53/Minecraft_entities_squid.gif"
     },
     {
         "name": "Taurus",
@@ -690,7 +747,8 @@
             ]
         },
         "rarity": "EPIC",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/c/c7/SkyBlock_entities_pig_rider.png"
     },
     {
         "name": "Thunder",
@@ -702,7 +760,8 @@
             ]
         },
         "rarity": "MYTHIC",
-        "environment": "Lava"
+        "environment": "Lava",
+        "image_link": "https://wiki.hypixel.net/images/a/ae/Minecraft_entities_elder_guardian.gif"
     },
     {
         "name": "Tiger Shark",
@@ -714,7 +773,8 @@
             ]
         },
         "rarity": "EPIC",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/0/0c/SkyBlock_npcs_tiger_shark.png"
     },
     {
         "name": "Titanoboa",
@@ -726,7 +786,8 @@
             ]
         },
         "rarity": "MYTHIC",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/5/54/SkyBlock_entities_titanoboa.png"
     },
     {
         "name": "Trash Gobbler",
@@ -738,7 +799,8 @@
             ]
         },
         "rarity": "COMMON",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/9/95/Minecraft_entities_endermite.gif"
     },
     {
         "name": "Water Hydra",
@@ -750,7 +812,8 @@
             ]
         },
         "rarity": "LEGENDARY",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/0/0e/SkyBlock_entities_water_hydra.png"
     },
     {
         "name": "Water Worm",
@@ -762,7 +825,8 @@
             ]
         },
         "rarity": "RARE",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/8/88/Minecraft_entities_silverfish.gif"
     },
     {
         "name": "Werewolf",
@@ -774,7 +838,8 @@
             ]
         },
         "rarity": "EPIC",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/a/a2/SkyBlock_entities_werewolf.png"
     },
     {
         "name": "Wiki Tiki",
@@ -786,7 +851,8 @@
             ]
         },
         "rarity": "MYTHIC",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/2/26/SkyBlock_entities_wiki_tiki.png"
     },
     {
         "name": "Yeti",
@@ -798,6 +864,7 @@
             ]
         },
         "rarity": "LEGENDARY",
-        "environment": "Water"
+        "environment": "Water",
+        "image_link": "https://wiki.hypixel.net/images/9/9a/SkyBlock_npcs_yeti.png"
     }
 ]
