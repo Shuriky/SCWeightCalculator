@@ -1,5 +1,5 @@
 # Author: Shuriky (May 2025)
-# This script scrapes data from the Hypixel Wiki for various sea creatures.
+# This script extracts data from the Hypixel Wiki for various sea creatures.
 # It retrieves the name, weight, requirements, rarity, and environment of each creature,
 # then saves the data to a JSON file named 'sea_creature_data.json'.
 
