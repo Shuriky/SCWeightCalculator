@@ -18,9 +18,9 @@
         "name": "Agarimoo",
         "weight": "950",
         "requirements": {
-            "level_required": "Bucket",
+            "level_required": "15",
             "areas": [
-                "Any"
+                "Chumcap"
             ]
         },
         "rarity": "RARE",
@@ -83,9 +83,9 @@
         "name": "Blue Ringed Octopus",
         "weight": "25",
         "requirements": {
-            "level_required": "Hotspot",
+            "level_required": "35",
             "areas": [
-                "Any"
+                "Hotspot"
             ]
         },
         "rarity": "LEGENDARY",
@@ -96,9 +96,9 @@
         "name": "Blue Shark",
         "weight": "550",
         "requirements": {
-            "level_required": "Festival",
+            "level_required": "10",
             "areas": [
-                "Any"
+                "Festival"
             ]
         },
         "rarity": "RARE",
@@ -109,9 +109,9 @@
         "name": "Carrot King",
         "weight": "300",
         "requirements": {
-            "level_required": "Bait",
+            "level_required": "14",
             "areas": [
-                "Any"
+                "Carrot Bait"
             ]
         },
         "rarity": "RARE",
@@ -161,8 +161,9 @@
         "name": "Fiery Scuttler",
         "weight": "25",
         "requirements": {
-            "level_required": "Hotspot",
+            "level_required": "37",
             "areas": [
+                "Hotspot",
                 "Crimson Isle"
             ]
         },
@@ -187,8 +188,9 @@
         "name": "Fireproof Witch",
         "weight": "250",
         "requirements": {
-            "level_required": "Hotspot",
+            "level_required": "16",
             "areas": [
+                "Hotspot",
                 "Crimson Isle"
             ]
         },
@@ -213,8 +215,9 @@
         "name": "Fried Chicken",
         "weight": "1,000",
         "requirements": {
-            "level_required": "Hotspot",
+            "level_required": "14",
             "areas": [
+                "Hotspot",
                 "Crimson Isle"
             ]
         },
@@ -226,9 +229,9 @@
         "name": "Frog Man",
         "weight": "1,000",
         "requirements": {
-            "level_required": "Hotspot",
+            "level_required": "5",
             "areas": [
-                "Any"
+                "Hotspot"
             ]
         },
         "rarity": "COMMON",
@@ -236,7 +239,7 @@
         "image_link": "https://wiki.hypixel.net/images/3/3d/SkyBlock_entities_frog_man.png"
     },
     {
-        "name": "Frosty (Mob)",
+        "name": "Frosty",
         "weight": "800",
         "requirements": {
             "level_required": "6",
@@ -265,9 +268,9 @@
         "name": "Great White Shark",
         "weight": "150",
         "requirements": {
-            "level_required": "Festival",
+            "level_required": "24",
             "areas": [
-                "Any"
+                "Festival"
             ]
         },
         "rarity": "LEGENDARY",
@@ -278,9 +281,9 @@
         "name": "Grim Reaper",
         "weight": "25",
         "requirements": {
-            "level_required": "Festival",
+            "level_required": "26",
             "areas": [
-                "Any"
+                "Spooky"
             ]
         },
         "rarity": "LEGENDARY",
@@ -384,7 +387,8 @@
         "requirements": {
             "level_required": "45",
             "areas": [
-                "Crimson Isle   Adept Trophy Fisher"
+                "Crimson Isle",   
+                "Adept Trophy Fisher"
             ]
         },
         "rarity": "MYTHIC",
@@ -444,12 +448,14 @@
         "image_link": "https://wiki.hypixel.net/images/2/26/Minecraft_entities_red_mooshroom.png"
     },
     {
-        "name": "Night Squid",
+        "name": "Night Squid",  
         "weight": "1,100",
         "requirements": {
-            "level_required": "Bait",
+            "level_required": "3",
             "areas": [
-                "Any"
+                "Night",
+                "Dark Bait",
+                "Park"
             ]
         },
         "rarity": "COMMON",
@@ -460,9 +466,9 @@
         "name": "Nightmare",
         "weight": "550",
         "requirements": {
-            "level_required": "Festival",
+            "level_required": "14",
             "areas": [
-                "Any"
+                "Spooky"
             ]
         },
         "rarity": "RARE",
@@ -473,9 +479,9 @@
         "name": "Nurse Shark",
         "weight": "1,100",
         "requirements": {
-            "level_required": "Festival",
+            "level_required": "5",
             "areas": [
-                "Any"
+                "Festival"
             ]
         },
         "rarity": "UNCOMMON",
@@ -525,9 +531,9 @@
         "name": "Phantom Fisher",
         "weight": "90",
         "requirements": {
-            "level_required": "Festival",
+            "level_required": "21",
             "areas": [
-                "Any"
+                "Spooky"
             ]
         },
         "rarity": "LEGENDARY",
@@ -540,7 +546,7 @@
         "requirements": {
             "level_required": "36",
             "areas": [
-                "Crimson Isle"
+                "Plhlegblast Pool"
             ]
         },
         "rarity": "MYTHIC",
@@ -577,8 +583,9 @@
         "name": "Ragnarok",
         "weight": "5",
         "requirements": {
-            "level_required": "Hotspot",
+            "level_required": "47",
             "areas": [
+                "Hotspot",
                 "Crimson Isle"
             ]
         },
@@ -616,9 +623,9 @@
         "name": "Scarecrow",
         "weight": "1,000",
         "requirements": {
-            "level_required": "Festival",
+            "level_required": "9",
             "areas": [
-                "Any"
+                "Spooky"
             ]
         },
         "rarity": "COMMON",
@@ -637,14 +644,6 @@
         "rarity": "UNCOMMON",
         "environment": "Water",
         "image_link": "https://wiki.hypixel.net/images/1/17/SkyBlock_entities_sea_archer.png"
-    },
-    {
-        "name": "Sea Creatures",
-        "weight": "N/A",
-        "requirements": "N/A",
-        "rarity": "N/A",
-        "environment": "N/A",
-        "image_link": "https://wiki.hypixel.net/images/5/53/Minecraft_entities_squid.gif"
     },
     {
         "name": "Sea Emperor",
@@ -715,9 +714,9 @@
         "name": "Snapping Turtle",
         "weight": "250",
         "requirements": {
-            "level_required": "Hotspot",
+            "level_required": "10",
             "areas": [
-                "Any"
+                "Hotspot"
             ]
         },
         "rarity": "RARE",
@@ -756,7 +755,8 @@
         "requirements": {
             "level_required": "36",
             "areas": [
-                "Crimson Isle   Novice Trophy Fisher"
+                "Crimson Isle",
+                "Novice Trophy Fisher"
             ]
         },
         "rarity": "MYTHIC",
@@ -767,9 +767,9 @@
         "name": "Tiger Shark",
         "weight": "300",
         "requirements": {
-            "level_required": "Festival",
+            "level_required": "18",
             "areas": [
-                "Any"
+                "Festival"
             ]
         },
         "rarity": "EPIC",
@@ -832,9 +832,9 @@
         "name": "Werewolf",
         "weight": "250",
         "requirements": {
-            "level_required": "Festival",
+            "level_required": "17",
             "areas": [
-                "Any"
+                "Spooky"
             ]
         },
         "rarity": "EPIC",
@@ -845,9 +845,9 @@
         "name": "Wiki Tiki",
         "weight": "5",
         "requirements": {
-            "level_required": "Hotspot",
+            "level_required": "40",
             "areas": [
-                "Any"
+                "Hotspot"
             ]
         },
         "rarity": "MYTHIC",
