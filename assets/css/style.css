@@ -1,0 +1,64 @@
+/* Color Palette */
+:root {
+    --main-color: white;
+    /* Color by rarities */
+    --common-color: white;
+    --uncommon-color: green;
+    --rare-color: blue;
+    --epic-color: darkviolet;
+    --legendary-color: gold;
+    --mythic-color: pink;
+  }
+
+body {
+    /* Background */
+    background-image: url('../../images/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    /* Font */
+    font-family: 'Montserrat', sans-serif;
+    color: var(--main-color);
+
+    /* Layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+/* Header */
+header {
+    /* Layout */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+
+    padding-top: clamp(2rem, 5vw, 3rem);
+
+}
+
+main {
+    /* Layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+
+    /* Size */
+    width: 100%;
+    height: 100%;
+
+}
+
+.rod-parts {
+    /* Layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: space-evenly;
+
+}
