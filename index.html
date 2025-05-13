@@ -7,6 +7,109 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
+    <!-- Header Section -->
+    <header class="header">
+        <img src="images/logowater.png" alt="SC Weight Calculator Logo" class="logo">
+    </header>
+
+    <!-- Main Content Section -->
+    <main class="main-content">
+
+        <!-- Fishing Rod -->
+        <img src="images/rod.webp" alt="Fishing Rod" class="rod">
+
+        <!-- Rod Parts -->
+        <div class="rod-parts">
+
+            <!-- Sinker -->
+             <label for="sinker">Sinker</label>
+             <select class="image-select" id="sinker">
+                <option value="any"><img src="images/random.png" alt="any" class="any-image">Any</option>>
+             </select>
+
+            <!-- Line -->
+            <label for="line">Line</label>
+            <select class="image-select" id="line">
+                <option value="any"><img src="images/random.png" alt="any" class="any-image">Any</option>
+            </select>
+
+            <!-- Hook -->
+            <label for="hook">Hook</label>
+            <select class="image-select" id="hook">
+                <option value="any"><img src="images/random.png" alt="any" class="any-image">Any</option>
+            </select>
+        </div>
+
+        <!-- Filters -->
+         <div class="filters">
+            <div class="line">
+                <!-- Environment -->
+                <label for="environment">Environment</label>
+                <select class="text-select" id="environment">
+                    <option value="water">Water</option>
+                    <option value="lava">Lava</option>
+                </select>
+
+                <!-- Fishing Level -->
+                <label for="fishing-level">Fishing Level</label>
+                <input type="number" class="text-input" id="fishing-level" placeholder="50" min="0" max="50"></input>
+            </div>
+
+            <div class="line">
+                <!-- Location -->
+                 <label for="location">Location</label>
+                 <select class="text-select" id="location">
+                    <option value="any">Any</option>
+                 </select>
+            </div>
+
+            <div class="line">
+                <!-- Pet -->
+                <label for="pet">Pet (Level 100)</label>
+                <select class="image-select" id="pet">
+                    <option value="any">Any</option>
+                </select>
+
+                <!-- Bait -->
+                <label for="bait">Bait</label>
+                <select class="image-select" id="bait">
+                    <option value="any">Any</option>
+                </select>
+            </div>
+
+            <div class="line">
+                <!-- Advanced Settings -->
+                <label for="advanced-settings">Advanced Settings</label>
+                <button class="transparent-button" id="advanced-settings">Advanced Settings</button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Calculate Button -->
+    <div class="calculate">
+        <button class="filled-button" id="calculate-button">Calculate</button>
+    </div>
+
+    <!-- Sea Creatures Section -->
+     <div>
+
+        <!-- Total Weight -->
+        <h2 class="total-weight">Total Weight = 69420</h2>
+
+        <!-- Sea Creatures -->
+        <div class="sc-containers">
+            <div class="sc-box" id="placeholder">
+                <img src="images/placeholder.gif" alt="Placeholder" class="sc-image">
+                <h3 class="creature-name">Squid</h3>
+                <h3 class="creature-rarity">Rarity: Common</h3>
+                <h3 class="creature-weight">Weight: 69</p>
+                <h3 class="creature-chance">Chance: 69.42%</h3>   
+            </div>
+     </div>
+
+
+
+
     <script src="assets/js/script.js"></script>
 </body>
 </html>
