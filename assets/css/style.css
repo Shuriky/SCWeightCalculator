@@ -196,6 +196,18 @@ label {
     background-color: transparent;
 }
 
+.filled-button {
+    appearance: none;
+    color: white;
+    border: 0.1em solid white;
+    border-radius: 0.3em;
+    font-size: 1em;
+    cursor: pointer;    
+    background-color: #0195ff;
+    border-color: transparent;
+    text-align: center;
+}
+
 .text-select, .image-select {
     width: 100%;
     display: flex;
@@ -208,6 +220,7 @@ label {
     display: flex;
     justify-content: center;
     padding: 0.6em 2.4em 0.6em 2.4em;
+    font-weight: 800; /* Semi-bold */
 }
 
 .text-input[type="number"] {
@@ -305,18 +318,6 @@ option {
 }
 
 /* Calculate Button */
-.filled-button {
-    appearance: none;
-    color: white;
-    border: 0.1em solid white;
-    border-radius: 0.3em;
-    font-size: 1em;
-    cursor: pointer;    
-    background-color: #0195ff;
-    border-color: transparent;
-    text-align: center;
-}
-
 #calculate-button {
     padding: 0.6em 6em 0.6em 6em;
     margin-top: 4em;
@@ -366,6 +367,11 @@ option {
 
 h3 {
     margin: 0em 2em 1em 2em;
+    font-weight: normal;
+}
+
+.creature-name {
+    font-weight: bold;
 }
 
 .sc-image {
