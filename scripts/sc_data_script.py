@@ -2,6 +2,7 @@
 # This script extracts data from the Hypixel Wiki for various sea creatures.
 # It retrieves the name, weight, requirements, rarity, and environment of each creature,
 # then saves the data to a JSON file named 'sea_creature_data.json'.
+# Some event screatures data are inaccurate due to how the page is structured.
 
 import requests
 from bs4 import BeautifulSoup

@@ -24,21 +24,21 @@
                  <div class="section">
                      <label for="sinker">Sinker</label>
                      <select class="image-select" id="sinker">
-                        <option value="any"><img src="images/random.png" alt="any" class="any-image">Any</option>>
+                        <option value="any"><img src="images/random.png" alt="any" class="image-icon">Any</option>
                      </select>
                  </div>
                 <!-- Line -->
                 <div class="section">
                     <label for="line">Line</label>
                     <select class="image-select" id="line">
-                        <option value="any"><img src="images/random.png" alt="any" class="any-image">Any</option>
+                        <option value="any"><img src="images/random.png" alt="any" class="image-icon">Any</option>
                     </select>
                 </div>
                 <!-- Hook -->
                 <div class="section">
                     <label for="hook">Hook</label>
                     <select class="image-select" id="hook">
-                        <option value="any"><img src="images/random.png" alt="any" class="any-image">Any</option>
+                        <option value="any"><img src="images/random.png" alt="any" class="image-icon">Any</option>
                     </select>
                 </div>
             </div>
@@ -97,6 +97,37 @@
             </div>
         </div>
     </main>
+
+    <!-- Advanced Settings Modal -->
+    <div class="settings-modal">
+        <div class="modal-content">
+            <!-- <span id="settings-close">&times;</span> -->
+
+            <div class="settings-column">
+                <div class="setting-section" id="armors">
+                    <label for="armor">Armor</label>
+                    <div class="settings-line">
+                        <input type="number" class="text-input" id="shark-armor" placeholder="0" min="0" max="4"></input>
+                        <img src="images/shark_scale_helmet.png" alt="Shark Scale Armor" class="image-icon" id="shark-armor-image">
+                        <label for="shark-armor">Shark Scale Armor (pieces)</label>
+                    </div>
+                    <div class="settings-line">
+                        <div class="checkbox-container" for="squid-hat">
+                            <input type="checkbox" class="checkbox-input" id="squid-hat">
+                            <span class="checkmark"></span>                        
+                        </div>
+                        <img src="images/squid_hat.png" alt="Squid Hat" class="image-icon" id="squid-hat-image">                   
+                        <label for="squid-hat">Squid Hat</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="settings-column">
+
+            </div>
+        </div>
+    </div>
+
 
     <!-- Calculate Button -->
     <div class="calculate">
