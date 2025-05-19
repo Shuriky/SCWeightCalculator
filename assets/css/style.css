@@ -222,6 +222,10 @@ label {
     opacity: 1;       
 }
 
+.settings-line .text-input {
+    width: 3em; /* Fixed width */
+}
+
 .text-select, .image-select {
     /* Arrow icon */
     background-image: url("data:image/svg+xml,%3Csvg fill='white' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
@@ -260,6 +264,15 @@ option {
     justify-content: space-between;
     align-items: flex-start;
     flex-wrap: wrap;
+}
+
+.settings-column {
+    /* Layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 2em;
 }
 
 .setting-section {
