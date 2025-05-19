@@ -264,9 +264,9 @@ option {
 .modal-content {
     background-color: rgba(0, 157, 255, 0.5);
     margin: 15% auto; /* 15% from the top and centered */
-    padding: 20px;
+    padding: 2em;
     border: 1px solid #888;
-    width: 80%; /* Could be more or less, depending on screen size */
+    width: 60%; /* Could be more or less, depending on screen size */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -289,6 +289,18 @@ option {
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
+    gap: 1em;
+}
+
+.modal-content {
+    position: relative; /* Ensure child absolute positioning works */
+}
+
+.modal-footer {
+    position: absolute;
+    bottom: 2em;
+    right: 2em;
+    display: flex;
     gap: 1em;
 }
 
