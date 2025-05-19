@@ -176,10 +176,10 @@ label {
 /* Show the checkmark when checked */
 .checkbox-input:checked + .checkmark:after {
     display: block;
-    left: 0.7em;
-    top: 0.4em;
-    width: 0.5em;
-    height: 1em;
+    left: 0.5em;
+    top: 0.2em;
+    width: 0.4em;
+    height: 0.8em;
     border: solid white;
     border-width: 0 0.2em 0.2em 0;
     transform: rotate(45deg);
@@ -250,7 +250,7 @@ option {
 
 /* Modal Content/Box */
 .modal-content {
-    background-color: rgba(0, 157, 255, 0.5);;
+    background-color: rgba(0, 157, 255, 0.5);
     margin: 15% auto; /* 15% from the top and centered */
     padding: 20px;
     border: 1px solid #888;
