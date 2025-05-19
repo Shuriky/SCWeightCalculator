@@ -104,6 +104,7 @@
             <!-- <span id="settings-close">&times;</span> -->
 
             <div class="settings-column">
+                <!-- Armor -->
                 <div class="setting-section" id="armors">
                     <label for="armor">Armor</label>
                     <!-- Shark Scale Armor -->
@@ -124,7 +125,8 @@
                     </div>           
                 </div>
 
-                <div class="setting-section" id="Essence Shops">
+                <!-- Essence Shops -->
+                <div class="setting-section" id="essence-shops">
                     <label for="essence-shops">Essence Shops</label>
                     <!-- Drake Piper -->
                     <div class="settings-line">
@@ -157,7 +159,57 @@
             </div>
 
             <div class="settings-column">
+                <!-- Trophy Fisher -->
+                <div class="setting-section" id="trophy-fisher">
+                    <label for="trophy-fisher">Trophy Fisher</label>
+                    <div class="settings-line">
+                        <select class="image-select" id="trophy-fisher">
+                            <option value="any">None</option>
+                            <option value="any">Novice Trophy Fisher (unlock Thunder)</option>    
+                            <option value="any" selected>Adept Trophy Fisher (unlock Lord Jawbus)</option>                      
+                        </select>
+                    </div>
+                </div>
 
+                <!-- Miscellaneous -->
+                <div class="setting-section" id="misc">
+                    <label for="misc">Miscellaneous</label>
+                    <!-- Fishing Festival -->
+                    <div class="settings-line">
+                        <label class="checkbox-container" for="fishing-festival">
+                            <input type="checkbox" class="checkbox-input" id="fishing-festival">
+                            <span class="checkmark"></span>                        
+                        </label>     
+                        <img src="images/marina.png" alt="Marina" class="image-icon" id="festival-image">                                  
+                        <label for="fishing-festival">Fishing Festival</label>
+                    </div>
+
+                    <!-- Hotspot -->
+                    <div class="settings-line">
+                        <label class="checkbox-container" for="hotspot">
+                            <input type="checkbox" class="checkbox-input" id="hotspot">
+                            <span class="checkmark"></span>                        
+                        </label>
+                        <img src="images/hotspot_radar.png" alt="Hotspot" class="image-icon" id="hotspot-image">
+                        <label for="hotspot">Hotspot</label>
+                    </div>
+
+                    <!-- Enderman Slayer 9 -->
+                    <div class="settings-line">
+                        <label class="checkbox-container" for="enderman-9">
+                            <input type="checkbox" class="checkbox-input" id="enderman-9">
+                            <span class="checkmark"></span>                        
+                        </label>
+                        <img src="images/enderman.png" alt="Enderman" class="image-icon" id="enderman-image">
+                        <label for="enderman-9">Enderman 9</label>
+                    </div>
+                </div>
+
+                <!-- Cancel & Apply Buttons -->
+                <div class="settings-line">
+                    <button class="transparent-button" id="cancel-button">Cancel</button>
+                    <button class="filled-button" id="apply-button">Apply</button>
+                </div>
             </div>
         </div>
     </div>

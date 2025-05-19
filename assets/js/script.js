@@ -8,14 +8,14 @@ var modal = document.querySelector(".settings-modal");
 var btn = document.querySelector("#advanced-settings");
 
 // Get the <span> element that closes the modal
-var span = document.querySelector("#settings-close");
+var span = document.querySelector("#cancel-button");
 
 // When the user clicks on the button, open the modal
 btn.onclick = function() {
   modal.style.display = "block";
 }
 
-// When the user clicks on <span> (x), close the modal
+// When the user clicks on cancel, close the modal
 span.onclick = function() {
   modal.style.display = "none";
 }
