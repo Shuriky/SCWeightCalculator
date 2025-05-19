@@ -278,7 +278,8 @@ option {
     background-color: rgba(0, 157, 255, 0.5);
     margin: 15% auto; /* 15% from the top and centered */
     padding: 2em;
-    border: 1px solid #888;
+    border: 0.1em solid white;
+    border-radius: 0.3em;
     width: 60%; /* Could be more or less, depending on screen size */
     display: flex;
     flex-direction: row;
